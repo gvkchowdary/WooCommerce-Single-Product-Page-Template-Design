@@ -1,0 +1,2 @@
+VC templates 
+Product Gallery options(carousel -> left or right or bottom)
